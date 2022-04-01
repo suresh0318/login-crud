@@ -1,0 +1,10 @@
+.home{
+    width: 100vw;
+    display: flex;
+   align-items: center;
+   justify-content: space-around;
+}
+.line{
+    border-left: 6px solid gray;
+    height: 90vh;
+}
